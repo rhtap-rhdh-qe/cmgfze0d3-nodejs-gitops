@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cmgfze0d3-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/cmgfze0d3-nodejs
